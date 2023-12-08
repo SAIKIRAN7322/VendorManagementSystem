@@ -1,5 +1,5 @@
 # VendorManagementSystem
-
+PS:Open this file in raw format for better view
 DESCRIPTION:
 This project is for handling vendor profiles, track purchase orders, and calculate vendor performance metrics.
 The Project name is fatmug
